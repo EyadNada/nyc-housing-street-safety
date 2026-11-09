@@ -1,0 +1,21 @@
+borough,year,affordable_units,buildings_completed,serious_crashes,deaths
+Bronx,2022,12006,183,600,55
+Bronx,2023,17422,280,600,46
+Bronx,2024,9373,237,622,52
+Bronx,2025,7043,261,543,33
+Brooklyn,2022,3469,278,885,76
+Brooklyn,2023,7046,312,874,66
+Brooklyn,2024,4979,225,919,65
+Brooklyn,2025,6023,241,879,76
+Manhattan,2022,2696,60,570,40
+Manhattan,2023,3702,72,653,39
+Manhattan,2024,5967,101,639,44
+Manhattan,2025,4945,108,586,39
+Queens,2022,3450,109,673,71
+Queens,2023,2579,119,733,85
+Queens,2024,2324,119,803,73
+Queens,2025,7632,157,801,62
+Staten Island,2022,386,24,151,13
+Staten Island,2023,92,23,156,11
+Staten Island,2024,61,23,133,14
+Staten Island,2025,54,25,138,15

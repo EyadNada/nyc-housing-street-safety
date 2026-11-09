@@ -1,0 +1,11 @@
+# Everything needed to run the notebook outside Google Colab (Colab already has these).
+-r requirements.txt
+matplotlib==3.11.2
+seaborn==0.13.2
+scipy==1.18.1
+scikit-learn==1.9.1
+requests==2.34.2
+jupyter
+# Optional, only for the automated EDA reports (Section 4.9 and 7.5):
+# ydata-profiling
+# sweetviz

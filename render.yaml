@@ -1,0 +1,8 @@
+# Render Blueprint: lets Render create the web service from this file (New + > Blueprint).
+services:
+  - type: web
+    name: nyc-homes-dangerous-streets
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:server --workers 1 --threads 4 --timeout 120

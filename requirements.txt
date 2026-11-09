@@ -1,0 +1,6 @@
+# Website (used by Render). Same versions as the course labs (Dash 4.4.1, Plotly 5.24.1).
+dash==4.4.1
+plotly==5.24.1
+pandas==2.2.3
+numpy==2.2.6
+gunicorn==26.2.0
